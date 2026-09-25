@@ -9,6 +9,13 @@ __pycache__/
 venv/
 env/
 
+._.env
+._.venv
+._.venv-1
+.___pycache__
+utils/.___pycache__
+._.gitignore
+
 # Jupyter
 .ipynb_checkpoints/
 
